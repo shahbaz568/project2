@@ -1,0 +1,153 @@
+.backg{
+	height: 150px;
+	width: 100%;
+	background-color: blue;
+    padding-top: 100px;
+}
+ .backg ul li{
+
+     font-size: 20px;
+    padding: 60px;
+	list-style-type: none;
+	display: inline;
+}
+@media only screen and (max-width: 320px;){
+	.backg ul li{
+		color: red;
+	}
+}
+
+.backimg{
+	background-image: url(farmanprojec1t.jpg);
+	width: 100%;
+	height: 650px;
+	
+}
+.aboutus{
+	text-align: center;
+	font-size: 55px;
+	margin-top: 60px;
+}
+.lorem{
+	font-size: 50px;
+	color: red;
+}
+.ipsum{
+	line-height: 40px;
+}
+.second{
+	margin-top: 90px;
+	background-image: url(farmanprojec1t.jpg);
+	width: 100%;
+	height: 600px;
+}
+.firstimg{
+	line-height: 45px;
+	border: 1px solid grey;
+	max-width: 410px;
+	height: 300px;
+}
+.lineborder{
+	border-bottom: 1px solid grey;
+	max-width: 410px;
+	height: 1px;
+}
+.gallery{
+	text-align: center;
+	font-size: 50px;
+
+}
+.doubleimg{
+	background-image: url(img1.jpg);
+	width: 100%;
+	height: 650px;
+}
+.ourteam{
+	font-size: 50px;
+	padding-top: 25px;
+}
+.btn{
+	
+	text-align: center;
+}
+.upper{
+	padding-left: 50px;
+	padding-top: 40px;
+}
+.test{
+	text-align: center;
+	margin-top: 60px;
+	font-size: 50px;
+}
+.box{
+	border: 1px solid white;
+	width: 100%;
+	height: 230px;
+	background-color: blue;
+}
+.contact{
+	text-align: center;
+	font-size: 50px;
+	padding-top: 120px;
+}
+.getin{
+	border: 1px solid white;
+	max-width: 450px;
+	height: 300px;
+	background-color: black;
+	
+
+}
+.shortline{
+	border-bottom: 1px solid white;
+	width: 380px;
+	height: 1px;
+	margin-left: 20px;
+
+}
+.form{
+	background-color: grey;
+	width: 100%;
+	height: 500px;
+
+}
+.formline{
+	border-bottom: 1px solid black;
+	height: 1px;
+	max-width: 100%;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+input{
+	width: 100%;
+	height: 50px;
+	border-radius: 8px;
+	padding-left: 20px;
+}
+.space{
+	margin-top: 30px;
+}
+.footer{
+	border: 1px solid white;
+	height: 150px;
+	width: 100%;
+	background-color: lightblue;
+}
+.facebook{
+	font-size: 30px;
+	text-align: center;
+	padding-top: 30px;
+
+
+}
+#circleper{
+	padding-top: 10px;
+	border: 1px solid white;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	background-color: grey;
+	margin: 10px;
+	padding: 15px;
+}
